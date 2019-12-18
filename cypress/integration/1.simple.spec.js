@@ -1,4 +1,5 @@
 /// <reference types="Cypress" />
+// New directive based on Promise();
 
 import { moveGutter, checkSplitDirAndSizes } from '../support/splitUtils'
 
